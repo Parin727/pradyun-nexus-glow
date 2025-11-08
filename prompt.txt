@@ -1,0 +1,109 @@
+
+“Design a modern, dynamic personal portfolio website for Pradyun Kumar Sinha, an AI/ML and Web Developer studying at BPDC.
+The site should combine iOS design aesthetics with tech-startup energy — clean, fluid, and immersive.
+
+Use glassmorphism, subtle gradients, smooth transitions, and interactive animations to make the interface come alive.
+Every button and link should be fully functional, with seamless navigation and polished motion effects.
+
+🧠 Overall Design Language
+
+Inspired by Apple’s iOS design — soft light/dark contrast, blurred backgrounds, and rounded corners (2xl).
+
+Typography: SF Pro or similar clean sans-serif.
+
+Colors: whites, off-grays, translucent panels, and accent gradients (light blue to purple).
+
+Motion: smooth fade-ins, parallax hero, gentle hover animations, and section transitions using Framer Motion or similar.
+
+Layout: fully responsive grid; optimized for desktop, tablet, and mobile.
+
+📍 Sections
+1. Hero Section
+
+Prominently display:
+Name: Pradyun Kumar Sinha
+Title: AI/ML and Web Developer
+Subtitle: Studying at BPDC
+
+Add soft glow or gradient accent behind the name.
+
+Include two functional buttons:
+
+View My Work → Smooth-scroll to Projects section
+
+About Me → Smooth-scroll to About section
+
+Add minimal particle or gradient motion in the background for depth.
+
+2. About Section
+
+Glass card layout with profile image placeholder and a short intro:
+“Hi, I’m Pradyun — passionate about building intelligent systems and modern web experiences. Currently studying at BPDC, exploring the intersection of AI and full-stack development.”
+
+Include a glowing divider and subtle fade-up animation on scroll.
+
+3. Work Experience Section
+
+Display as interactive vertical timeline or stacked glass cards with motion.
+
+Entries:
+
+AI Research Intern — DeepMind Labs (Remote, 2024)
+Worked on developing deep learning models for time-series prediction and reinforcement learning optimization.
+
+Web Developer Intern — NexaTech Solutions (2023)
+Built dynamic interfaces using React and Next.js; optimized API performance by 30%.
+
+Freelance Developer — Various Clients (2022–2023)
+Delivered responsive websites and integrated small-scale AI features for startups.
+
+4. Projects Section
+
+Animated project grid or carousel.
+
+Each project card has a hover animation, a blurred overlay, and a “Learn More” button that opens a working modal or link.
+
+Example projects:
+
+NeuraNote – AI-powered note summarizer using NLP.
+
+WebGenie – Dynamic website generator built with React and Flask.
+
+VisionScan – Image classification app for object detection.
+
+ChatForge – Chatbot platform leveraging fine-tuned LLMs.
+
+5. Skills Section
+
+Display skill icons in glowing or animated cards.
+
+Include Python, TensorFlow, React, Flask, Next.js, and Git.
+
+Optional: animated circular progress indicators or hover motion on icons.
+
+6. Footer / Connect Section
+
+Minimal footer with soft gradient background and frosted glass style.
+
+Add “Let’s Connect” text (no contact form needed).
+
+Include functional LinkedIn and GitHub icons linking to placeholder URLs.
+
+Ensure hover glow and responsive alignment.
+
+⚙️ Functionality Requirements
+
+All navigation buttons must scroll smoothly to target sections.
+
+Light/dark mode toggle styled like iOS settings.
+
+All animations must feel smooth (use easing and delays).
+
+Modal popups and buttons should be functional.
+
+Page transitions should fade or slide elegantly.
+
+Fully responsive design.
+
+Tone:
+Polished, dynamic, and futuristic — a showcase of innovation and technical creativity wrapped in Apple-like elegance.
