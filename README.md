@@ -36,6 +36,9 @@ A real-time **visual app builder** that simplifies development with a **drag-and
 ### **3. v0.dev**
 Specializes in **UI generation and prototyping**, helping developers visualize application layouts seamlessly, bridging the gap between **design** and **functionality**.
 
+### **Other Tools**
+There are multiple other tools that also serve the same purpose, for eg. Claude, Lovable, Cursor, Perplexity etc.
+
 ---
 
 ## 🎨 Enhancing Creativity with AI
