@@ -79,6 +79,7 @@ Shows how v0.dev streamlines the **UI prototyping process** by enabling quick it
 The final project illustrates the seamless integration of AI tools across devices. It features vibrant interfaces, interactive features, and real-world usability—demonstrating the power of AI-driven coding creativity.
 
 **URL**: https://lovable.dev/projects/e44ecb83-de49-4882-ae9a-13bf0e049dc0
+**Prompt**: Check out prompt.txt for the prompt
 ---
 
 ## ⚡ Quick Reference Guide
